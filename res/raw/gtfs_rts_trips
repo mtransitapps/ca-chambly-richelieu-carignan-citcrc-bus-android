@@ -1,0 +1,40 @@
+101,0,'Bouthillier',1
+100,0,'Lareau',1
+200,0,'Bellerive',2
+201,0,'Hôtel De Ville De Carignan',2
+300,0,'Carignan',3
+301,0,'Île Goyer',3
+401,0,'Chemin Bellerive',4
+400,0,'Île Aux Lièvres',4
+500,0,'Chemin De La Grande-Allée',5
+501,0,'Route 112',5
+601,0,'Chambly',6
+600,0,'St-Mathias-Sur-Richelieu',6
+1000,0,'Chambly Local',10
+1100,0,'Chambly Local',11
+1200,0,'Chambly Local',12
+1300,0,'Chambly Local',13
+1400,0,'Richelieu-Chambly 0',14
+1401,0,'Richelieu-Chambly 1',14
+1500,0,'Marieville-Chambly 0',15
+1501,0,'Marieville-Chambly 1',15
+1601,0,'Carignan',16
+1600,0,'Chambly',16
+2000,0,'Richelieu-Chambly',20
+30000,0,'Chambly',300
+30001,0,'Longueuil',300
+30100,0,'Chambly',301
+30101,0,'Longueuil',301
+30201,0,'Longueuil',302
+30300,0,'Chambly',303
+30301,0,'Longueuil',303
+40000,0,'Chambly',400
+40001,0,'Montréal',400
+40100,0,'Chambly',401
+40101,0,'Montréal',401
+45001,0,'Chambly',450
+45000,0,'St-Jean-Sur-Richelieu',450
+50000,0,'Marieville',500
+50001,0,'Montréal',500
+60000,0,'Carignan',600
+60001,0,'Montréal',600
