@@ -2,11 +2,17 @@ Title: Bus CIT Chambly-Richelieu-Carignan (MonTransit)
 ----------
 Short description: Informations des bus CIT Chambly-Richelieu-Carignan pour MonTransit BETA.
 ----------
+What's new in this version?:
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
+
+Horaires du 24 Août 2014 au 20 Août 2020.
+----------
 Full description:
-BETA : TEST EN COURS
-Pour quitter le test : http://goo.gl/S5lIXM
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
 Cette application ajoute les informations des bus CIT Chambly-Richelieu-Carignan à MonTransit BETA.
+
+Le CIT Chambly-Richelieu-Carignan (Blus) dessert Brossard, Carignan, Chambly, Longueuil, Marieville, Montréal, Richelieu, Saint-Bruno, Saint-Jean-Sur-Richelieu et Saint-Mathias-Sur-Richelieu.
 
 Une fois cette application installée, l'application MonTransit BETA affichera les informations du bus (horaires ...).
 

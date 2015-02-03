@@ -1,12 +1,18 @@
-Title: CIT Chambly-Richelieu-Carignan Bus (MonTransit)
+Title: CIT CRC (Blus) Bus (MonTransit)
 ----------
-Short description: CIT Chambly-Richelieu-Carignan bus information for MonTransit BETA.
+Short description: CIT Chambly-Richelieu-Carignan (Blus) bus information for MonTransit BETA.
+----------
+What's new in this version?:
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+
+Schedule from August 24, 2014 to August 20, 2020
 ----------
 Full description:
-BETA: TEST IN PROGRESS
-To leave the test: http://goo.gl/S5lIXM
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
-This application adds CIT Chambly-Richelieu-Carignan bus information to MonTransit BETA.
+This application adds CIT Chambly-Richelieu-Carignan (Blus) bus information to MonTransit BETA.
+
+CIT Chambly-Richelieu-Carignan (Blus) serves Brossard, Carignan, Chambly, Longueuil, Marieville, Montréal, Richelieu, Saint-Bruno, Saint-Jean-Sur-Richelieu and Saint-Mathias-Sur-Richelieu.
 
 Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
 
@@ -20,7 +26,7 @@ http://www.amt.qc.ca/developers/
 This application is free and open-source:
 https://github.com/mtransitapps/ca-chambly-richelieu-carignan-citcrc-bus-android
 
-This app is not related with the Agence Métropolitaine de Transport and CIT Chambly-Richelieu-Carignan.
+This app is not related with the Agence Métropolitaine de Transport and CIT Chambly-Richelieu-Carignan (Blus).
 ----------
 Application type: Applications
 ----------
