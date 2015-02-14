@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MonTransit CIT Chambly-Richelieu-Carignan Bus</string>
-    <string name="app_desc">Données des bus CIT Chambly-Richelieu-Carignan pour MonTransit.</string>
+    <string name="app_name">MonTransit CIT CRC (Blus) Bus</string>
+    <string name="app_desc">Données des bus CIT CRC (Blus) pour MonTransit.</string>
 </resources>
