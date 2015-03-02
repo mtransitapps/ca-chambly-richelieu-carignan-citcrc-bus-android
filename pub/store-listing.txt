@@ -3,14 +3,14 @@ Title: CIT CRC (Blus) Bus (MonTransit)
 Short description: CIT Chambly-Richelieu-Carignan (Blus) bus information for MonTransit BETA.
 ----------
 What's new in this version?:
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 Schedule from August 24, 2014 to August 20, 2020
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 This application adds CIT Chambly-Richelieu-Carignan (Blus) bus information to MonTransit BETA.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
 CIT Chambly-Richelieu-Carignan (Blus) serves Brossard, Carignan, Chambly, Longueuil, Marieville, Montréal, Richelieu, Saint-Bruno, Saint-Jean-Sur-Richelieu and Saint-Mathias-Sur-Richelieu.
 
