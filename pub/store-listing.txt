@@ -5,7 +5,7 @@ CIT Chambly-Richelieu-Carignan (Blus) buses for MonTransit
 Schedule…
 ----------
 What's new in this version?:
-Schedule from January 25, 2016 to August 20, 2020.
+Schedule from June 5, 2016 to August 20, 2020.
 ----------
 Full description:
 This application adds CIT Chambly-Richelieu-Carignan (Blus) buses information to MonTransit.
