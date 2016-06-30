@@ -1,5 +1,7 @@
 '0102030405',300,62200,0,'Stationnement Incitatif'
 '0102030405',301,163800,,''
+'0102030405',400,165800,,'',18700,,'',6500,,''
+'0102030405',401,55600,0,'Stationnement Incitatif Chambly',10000,0,'Stationnement Incitatif Chambly',19500,0,'Stationnement Incitatif Chambly'
 '0102030405',500,191300,,''
 '0102030405',501,63500,0,'Stationnement Incitatif'
 '0102030405',600,164300,,'',8000,,'',8000,,'',3600,,'',7400,,''
