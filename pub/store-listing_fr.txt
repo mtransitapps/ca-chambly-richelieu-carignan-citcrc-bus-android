@@ -1,14 +1,17 @@
 Title: Bus CIT CRC (Blus) - MonTrans…
 ----------
 Short description:
-Autobus CIT Chambly-Richelieu-Carignan (Blus) pour MonTransit.
-Horaires…
+Autobus CIT Chambly-Richelieu-Carignan pour MonTransit.
+Horaires. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 21 août 2016 au 20 août 2020.
+Tweets de @MonBlus1.
 ----------
 Full description:
 Cette application ajoute les informations des autobus CIT Chambly-Richelieu-Carignan (Blus) à MonTransit.
+
+L'app contient les horaires et les dernières nouvelles de @MonBlus1 sur Twitter.
 
 Le CIT Chambly-Richelieu-Carignan (Blus) dessert Brossard, Carignan, Chambly, Longueuil, Marieville, Montréal, Richelieu, Saint-Bruno, Saint-Jean-Sur-Richelieu et Saint-Mathias-Sur-Richelieu.
 
@@ -25,3 +28,6 @@ Cette application est gratuite et open-source :
 https://github.com/mtransitapps/ca-chambly-richelieu-carignan-citcrc-bus-android
 
 Cette application n'est pas associée à l'Agence Métropolitaine de Transport et CIT Chambly-Richelieu-Carignan (Blus).
+
+Autorisations :
+- Autres: requis pour lire les nouvelles (Twitter)
