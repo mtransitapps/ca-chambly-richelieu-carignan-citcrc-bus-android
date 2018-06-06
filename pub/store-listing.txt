@@ -1,7 +1,7 @@
-Title: RTM (CIT) CRC (Blus) Bus - MonTrans…
+Title: RTM (CIT) Chambly-Richelieu-Carignan (Blus) Bus -…
 ----------
 Short description:
-RTM (CIT) Chambly-Richelieu-Carignan (Blus) buses for MonTransit
+RTM (CIT) Chambly-Richelieu-Carignan buses for MonTransit
 Schedules. News.
 ----------
 What's new in this version?:

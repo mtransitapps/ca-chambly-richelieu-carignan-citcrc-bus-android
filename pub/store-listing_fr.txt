@@ -1,8 +1,8 @@
-Title: Bus RTM (CIT) CRC (Blus) - MonTrans…
+Title: Bus RTM (CIT) Chambly-Richelieu-Carignan - MonTra…
 ----------
 Short description:
 Autobus RTM (CIT) Chambly-Richelieu-Carignan pour MonTransit.
-Horaires. Nouvelles.
+Horaires. Tweets.
 ----------
 What's new in this version?:
 Horaires du 27 mai 2018 au 20 août 2020.
