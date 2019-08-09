@@ -1,4 +1,4 @@
-16000,'16000','Terminus Mansfield',45.498457,-73.564729
+16000,'16000','Terminus Mansfield Quai 6',45.497972,-73.564192
 74000,'74000','Séminaire Sud / Montcalm',45.297081,-73.266912
 74001,'74001','Séminaire Sud / Gouin',45.301098,-73.266457
 74002,'74002','Séminaire Nord / Hôpital Du Haut-Richelie',45.333594,-73.268116
@@ -145,7 +145,7 @@
 74204,'74204','Chemin Chambly / Auclair',45.437598,-73.188498
 74205,'74205','Pont / Roseaux',45.433441,-73.145792
 74206,'74206','Roseaux / Ivanier',45.429456,-73.1435
-74212,'74212','Terminus Centre-Ville',45.49807,-73.566016
+74212,'74212','Terminus Centre-Ville Porte 16',45.498041,-73.566033
 74219,'74219','Route 112 / Chemin Du Ruisseau Barré',45.439033,-73.183051
 74220,'74220','Route 112 / Chemin Du Ruisseau Barré',45.439467,-73.182901
 74221,'74221','Claude-De-Ramezay / Rosiers',45.437363,-73.165339
@@ -363,6 +363,6 @@
 74694,'74694','Salaberry / Barre',45.448071,-73.295229
 74695,'74695','Salaberry / Périgny',45.448276,-73.293917
 74696,'74696','Lebel / Laurent-Perreault',45.439394,-73.292615
-74700,'74700','Terminus Rue Manfield / Voie',45.498326,-73.564515
+74700,'74700','Terminus Mansfield Quai 1',45.498267,-73.5639
 74701,'74701','Nazareth / Ottawa',45.496329,-73.557851
 74863,'74863','Demers / Ormes',45.46567,-73.289393
