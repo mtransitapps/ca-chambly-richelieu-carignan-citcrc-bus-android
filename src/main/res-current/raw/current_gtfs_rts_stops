@@ -120,6 +120,9 @@
 74154,'74154','Voie Bv-Taschereau / Curé-Poirier',45.51038,-73.494372
 74157,'74157','Séminaire Nord / St-Michel',45.315133,-73.264514
 74158,'74158','Séminaire Nord / St-Michel',45.315358,-73.264871
+74167,'74167','Désourdy / Léon-Paré',45.454992,-73.352306
+74168,'74168','Désourdy / 3152',45.453425,-73.353631
+74169,'74169','Désourdy / 3152',45.453216,-73.353613
 74180,'74180','Gentilly / Cégep Édouard-Montpetit',45.536925,-73.495237
 74181,'74181','Cégep Édouard-Montpetit / Ch De Chambly',45.535728,-73.496381
 74182,'74182','Chambly / St-Charles',45.54081,-73.508238
@@ -195,9 +198,13 @@
 74286,'74286','Promenades / Tim Horton''s',45.500681,-73.37511
 74287,'74287','Promenades / Laure L Hosson (Brick)',45.493851,-73.378927
 74288,'74288','Promenades / Laure L Hosson (Brick)',45.493108,-73.378844
+74289,'74289','Patriotes / Monseigneur-Phaneuf',45.474324,-73.268505
+74290,'74290','Patriotes / Monseigneur-Phaneuf',45.474521,-73.268679
 74291,'74291','Brassard / Michel-Laguë',45.432261,-73.306221
 74294,'74294','Route 112 / Centre Commercial Faubourg',45.46037,-73.314109
 74295,'74295','Route 112 / Centre Commercial Faubourg',45.460002,-73.314212
+74296,'74296','Chemin Des Patriotes / Albert-Perron',45.47687,-73.26829
+74297,'74297','Chemin Des Patriotes / Albert-Perron',45.476826,-73.268021
 74302,'74302','Chambly / Promenades',45.487142,-73.382043
 74304,'74304','Promenades / Chambly',45.487433,-73.382379
 74312,'74312','Cousineau / Montée St-Hubert',45.501621,-73.422955
@@ -282,6 +289,8 @@
 74541,'74541','Chemin Chambly / Route 112',45.440366,-73.196738
 74542,'74542','Route 112 / Chemin Chambly',45.44042,-73.197144
 74550,'74550','Terminus Panama',45.465878,-73.468339
+74559,'74559','Devant Le 3196 Bouthillier',45.458139,-73.3526
+74560,'74560','3196 Bouthillier',45.45793,-73.352579
 74561,'74561','Bouthillier / Jean-Baptiste Charron',45.462577,-73.349415
 74562,'74562','Bouthillier / Jean-Baptiste Charron',45.462309,-73.34936
 74563,'74563','Bouthillier / Jean-Baptiste Lamoureux',45.454344,-73.35549
@@ -309,7 +318,12 @@
 74593,'74593','Martel / Georges-Pépin',45.457561,-73.291554
 74594,'74594','Martel / St-Pierre',45.453011,-73.291383
 74595,'74595','Martel / Gérard-Mongeau',45.451368,-73.29092
+74611,'74611','Désourdy / Galets Sud',45.460668,-73.348067
+74612,'74612','Désourdy / Galets Sud',45.460877,-73.348081
 74613,'74613','Anne-Le-Seigneur / Jean-Casgrain',45.437154,-73.316072
+74614,'74614','Désourdy / Granit',45.459024,-73.349482
+74615,'74615','Désourdy / Granit',45.45883,-73.349511
+74616,'74616','Désourdy / Léon-Paré',45.455203,-73.352322
 74620,'74620','Franquet / Frédéric-Courtemanche',45.434188,-73.276821
 74622,'74622','Fréchette / Anne-Le-Seigneur',45.427845,-73.309992
 74623,'74623','Fréchette / Anne-Le-Seigneur',45.427302,-73.31063
@@ -362,6 +376,8 @@
 74694,'74694','Salaberry / Barre',45.448071,-73.295229
 74695,'74695','Salaberry / Périgny',45.448276,-73.293917
 74696,'74696','Lebel / Laurent-Perreault',45.439394,-73.292615
+74697,'74697','Désourdy / Henri-Bisaillon',45.456632,-73.351154
+74698,'74698','Désourdy / Henri-Bisaillon',45.456875,-73.351091
 74700,'74700','Terminus Mansfield Quai 1',45.498267,-73.5639
 74701,'74701','Robert-Bourassa / Ottawa',45.496329,-73.557851
 74863,'74863','Demers / Ormes',45.46567,-73.289393
