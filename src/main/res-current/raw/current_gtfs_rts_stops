@@ -32,9 +32,15 @@
 74033,'74033','Fréchette / Charles-Le Moyne',45.44435,-73.288097
 74034,'74034','Fréchette / Gentilly',45.440602,-73.288964
 74036,'74036','Fréchette / Lapalme',45.440898,-73.28927
+74037,'74037','Gentilly / Franquet',45.43477,-73.280084
 74038,'74038','Franquet / Gentilly',45.434483,-73.280188
 74041,'74041','Franquet / Scheffer',45.435402,-73.285955
 74042,'74042','Bourgogne / Napoléon',45.442655,-73.261053
+74044,'74044','Scheffer / O''Brien',45.434885,-73.286084
+74045,'74045','Scheffer / Fonrouge',45.43078,-73.287455
+74047,'74047','Fonrouge / Kennedy',45.431439,-73.292072
+74049,'74049','Kennedy / Beausoleil',45.433538,-73.291425
+74051,'74051','Kennedy / Fréchette',45.434815,-73.291608
 74052,'74052','Fréchette / Kennedy',45.435026,-73.291871
 74053,'74053','Fréchette / Kennedy',45.43473,-73.291773
 74054,'74054','Franquet / Berthier',45.436222,-73.289575
@@ -42,6 +48,10 @@
 74057,'74057','Fréchette / Franquet',45.436416,-73.290767
 74058,'74058','Fréchette / Lebel',45.438717,-73.289645
 74059,'74059','Fréchette / Lebel',45.439224,-73.289798
+74060,'74060','Lebel / Fréchette',45.438953,-73.289943
+74062,'74062','Lebel / St-Jean',45.439656,-73.294806
+74064,'74064','Lebel / Denault',45.440318,-73.298853
+74066,'74066','Lebel / Briand',45.440761,-73.301803
 74067,'74067','Bourgogne / St-Jacques',45.44351,-73.262943
 74068,'74068','Bourgogne / St-Jacques',45.443495,-73.263233
 74069,'74069','Brassard / Lebel',45.440998,-73.303667
@@ -72,6 +82,7 @@
 74102,'74102','Bourgogne / Sénécal',45.450908,-73.296144
 74103,'74103','Bourgogne / Sénécal',45.451247,-73.29681
 74104,'74104','Stationnement Incitatif Chambly',45.4328,-73.303604
+74105,'74105','Fonrouge / Kennedy',45.431545,-73.292075
 74108,'74108','Périgny / Bourgogne',45.440572,-73.258516
 74109,'74109','Industriel / Périgny',45.441725,-73.271546
 74110,'74110','Industriel / Périgny',45.441872,-73.27177
@@ -87,8 +98,12 @@
 74123,'74123','Bourgogne / Langevin',45.447446,-73.279183
 74124,'74124','Bourgogne / Henderson',45.447998,-73.27321
 74125,'74125','Bourgogne / Parc',45.448105,-73.273089
+74126,'74126','Gentilly / Jean-Monty',45.438611,-73.278803
 74127,'74127','Kent / Jean-Lynch',45.434152,-73.311909
 74128,'74128','Franquet / Duvernay',45.435417,-73.284579
+74132,'74132','Gentilly / Pierre-Cognac',45.439646,-73.280342
+74134,'74134','Lebel / Roland-Gagnon',45.439996,-73.296906
+74136,'74136','Gentilly / Hertel',45.440285,-73.286525
 74137,'74137','Bourgogne / Dumaine',45.446763,-73.27005
 74138,'74138','Fréchette / Bourgogne',45.447746,-73.28679
 74139,'74139','Bourgogne / Fréchette',45.447885,-73.286721
@@ -208,6 +223,7 @@
 74459,'74459','Patriotes / Marieville',45.436549,-73.245494
 74462,'74462','Patriotes / Devant Le CLSC Du Richelieu',45.43743,-73.24529
 74463,'74463','Patriotes / 14e Av.',45.439452,-73.245602
+74464,'74464','Terminus Panama Temporaire Quai 11',45.46605,-73.470511
 74472,'74472','Franquet / Gentilly',45.434687,-73.279813
 74474,'74474','Patriotes / Montée Daigneault',45.412107,-73.241524
 74475,'74475','Patriotes / Samuel-Bessette',45.432698,-73.245914
@@ -326,6 +342,11 @@
 74646,'74646','Anne-Le Seigneur / Jean-François-Lyonnais',45.438615,-73.316579
 74647,'74647','Anne-Le Seigneur / Tailleur',45.433903,-73.315321
 74648,'74648','Michel-Laguë / Étienne-Bisaillon',45.43154,-73.311335
+74655,'74655','Fonrouge / Beaulac',45.432042,-73.295698
+74656,'74656','Beaulac / Moncours',45.430434,-73.297357
+74657,'74657','Beaulac / Niverville',45.430368,-73.301497
+74658,'74658','Niverville / Fresnière',45.431935,-73.300343
+74659,'74659','Niverville / Fonrouge',45.432718,-73.296403
 74660,'74660','Joseph-Bresse / Daigneault',45.459349,-73.303186
 74661,'74661','Joseph-Bresse / Daigneault',45.461197,-73.296741
 74662,'74662','Joseph-Bresse / Gordon-Mclean',45.461698,-73.299362
@@ -355,6 +376,7 @@
 74693,'74693','Salaberry / Briand',45.44737,-73.29964
 74694,'74694','Salaberry / Barré',45.448071,-73.295229
 74695,'74695','Salaberry / Périgny',45.448276,-73.293917
+74696,'74696','Lebel / Laurent-Perreault',45.439394,-73.292615
 74697,'74697','Désourdy / Henri-Bisaillon',45.456632,-73.351154
 74698,'74698','Désourdy / Henri-Bisaillon',45.456875,-73.351091
 74700,'74700','Terminus Mansfield Quai 1',45.498267,-73.5639
