@@ -13,7 +13,7 @@
 74012,'74012','Périgny / Bellerive',45.459268,-73.305694
 74013,'74013','Chambly / Bellevue',45.462278,-73.331809
 74014,'74014','Chambly / Bellevue',45.462039,-73.332316
-74015,'74015','Route 112 / Chambly',45.465216,-73.345298
+74015,'74015','Route 112 / Chambly',45.465225,-73.345291
 74017,'74017','Fréchette / Fonrouge',45.433589,-73.296925
 74018,'74018','Fréchette / Denault',45.433895,-73.29625
 74020,'74020','Périgny / Bourgogne',45.456229,-73.302339
@@ -261,8 +261,8 @@
 74508,'74508','Grande Allée / Coupal',45.431775,-73.370788
 74509,'74509','Grande Allée / Devant Le #1215',45.435753,-73.375916
 74510,'74510','Grande Allée / Devant Le #1198',45.435547,-73.37596
-74511,'74511','Henriette / Devant Le Parc Henriette',45.448751,-73.323265
-74512,'74512','Henriette / Parc Henriette',45.44839,-73.323274
+74511,'74511','Henriette / Charlotte-Dubuc',45.44844,-73.325104
+74512,'74512','Henriette / Charlotte-Dubuc',45.448238,-73.32521
 74513,'74513','Henriette / Jeanne-Déchard',45.446045,-73.34002
 74514,'74514','Jeanne-Déchard / Henriette',45.4459,-73.340007
 74515,'74515','Gilbert-Martel / Catherine-Godin',45.444074,-73.340519
@@ -280,7 +280,7 @@
 74527,'74527','Roses / Deux-Rivières',45.475098,-73.285201
 74528,'74528','Tulipes / #1994',45.473776,-73.285042
 74529,'74529','Robert-Bourassa / William',45.497412,-73.558424
-74531,'74531','Chambly / Carrière',45.46498,-73.345655
+74531,'74531','Chambly / Carrière',45.465007,-73.345656
 74534,'74534','Chambly / Bernard',45.433835,-73.176922
 74535,'74535','Chambly / Bernard',45.43368,-73.177299
 74537,'74537','Henriette / Bellerive',45.450385,-73.312839
@@ -295,13 +295,13 @@
 74561,'74561','Bouthillier / Jean-Baptiste-Charron',45.462577,-73.349415
 74562,'74562','Bouthillier / Jean-Baptiste-Charron',45.462309,-73.34936
 74563,'74563','Bouthillier / Jean-Baptiste-Lamoureux',45.454344,-73.35549
-74564,'74564','Bouthillier / Jean-Baptiste-Lamoureux',45.454218,-73.355309
-74565,'74565','Bouthillier / Lareau',45.450715,-73.35468
+74564,'74564','Jean-Baptiste-Lamoureux / Bouthillier',45.454218,-73.355309
+74565,'74565','Laurent-Monty / Désourdy',45.450715,-73.35468
 74566,'74566','Bouthillier / Lareau',45.450799,-73.354539
-74567,'74567','Lareau / Jean-Baptiste-Lamoureux',45.451911,-73.356148
-74568,'74568','Lareau / Jean-Baptiste-Lamoureux',45.451806,-73.35599
+74567,'74567','Lareau / Laurent-Monty',45.451911,-73.356148
+74568,'74568','Laurent-Monty / Lareau',45.451806,-73.35599
 74569,'74569','Lareau / Jean-Baptiste-Charron',45.463074,-73.346311
-74570,'74570','Lareau / Jean-Baptiste-Charron',45.463282,-73.346329
+74570,'74570','Désourdy / Galets Nord',45.463282,-73.346329
 74571,'74571','Carrière / Chambly',45.464849,-73.34538
 74572,'74572','Carrière / Chambly',45.464909,-73.345678
 74576,'74576','Roses / Deux-Rivières',45.476855,-73.275521
