@@ -8,7 +8,6 @@
 74007,'74007','Séminaire Sud / Montcalm (Cégep)',45.297053,-73.266582
 74008,'74008','Simard / Centre Sportif Robert Lebel',45.437194,-73.269138
 74009,'74009','Brassard / 2e Rue De Tracy',45.449078,-73.303424
-74010,'74010','Brassard / 2e Rue De Tracy',45.448994,-73.303039
 74011,'74011','Chambly / Bellerive',45.459436,-73.308587
 74012,'74012','Périgny / Bellerive',45.459268,-73.305694
 74013,'74013','Chambly / Bellevue',45.462278,-73.331809
@@ -34,6 +33,8 @@
 74036,'74036','Fréchette / Lapalme',45.440898,-73.28927
 74037,'74037','Gentilly / Franquet',45.43477,-73.280084
 74038,'74038','Franquet / Gentilly',45.434483,-73.280188
+74039,'74039','Henriette / Devant Le #2282',45.449378,-73.319247
+74040,'74040','Henriette / Devant Le #2271',45.449198,-73.319375
 74041,'74041','Franquet / Scheffer',45.435402,-73.285955
 74042,'74042','Bourgogne / Napoléon',45.442655,-73.261053
 74044,'74044','Scheffer / O''Brien',45.434885,-73.286084
@@ -123,6 +124,8 @@
 74167,'74167','Désourdy / Léon-Paré',45.454992,-73.352306
 74168,'74168','Désourdy / 3152',45.453425,-73.353631
 74169,'74169','Désourdy / 3152',45.453216,-73.353613
+74170,'74170','Henriette / Léonard-Tresny',45.446916,-73.335022
+74171,'74171','Henriette / Léonard-Tresny',45.44663,-73.335255
 74180,'74180','Gentilly Est / Cégep Édouard-Montpetit',45.536925,-73.495237
 74181,'74181','Chambly / Gentilly',45.535728,-73.496381
 74182,'74182','Chambly / St-Charles',45.54081,-73.508238
@@ -223,7 +226,6 @@
 74459,'74459','Patriotes / Marieville',45.436549,-73.245494
 74462,'74462','Patriotes / Devant Le CLSC Du Richelieu',45.43743,-73.24529
 74463,'74463','Patriotes / 14e Av',45.439452,-73.245602
-74464,'74464','Terminus Panama Temporaire Quai 11',45.46605,-73.470511
 74472,'74472','Franquet / Gentilly',45.434687,-73.279813
 74474,'74474','Patriotes / Montée Daigneault',45.412107,-73.241524
 74475,'74475','Patriotes / Samuel-Bessette',45.432698,-73.245914
