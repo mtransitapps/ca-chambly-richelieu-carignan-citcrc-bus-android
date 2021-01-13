@@ -27,12 +27,12 @@
 2000100,0,'Lareau',20001
 2000200,0,'Bellerive',20002
 2000201,0,'Hôtel De Ville De Carignan',20002
-2000300,0,'Chambly',20003
+2000300,0,'Stat Incitatif',20003
 2000301,0,'Île Goyer',20003
-2000401,0,'Stat Incitatif',20004
-2000400,0,'Île Aux Lièvres',20004
+2000401,0,'AM',20004
+2000400,0,'PM',20004
 2000500,0,'Chemin De La Grande-Allée',20005
-2000501,0,'Route 112',20005
+2000501,0,'Stat Incitatif',20005
 2000601,0,'Chambly',20006
 2000600,0,'St-Mathias-Sur-Richelieu',20006
 2000700,0,'Charles-Le Moyne',20007
