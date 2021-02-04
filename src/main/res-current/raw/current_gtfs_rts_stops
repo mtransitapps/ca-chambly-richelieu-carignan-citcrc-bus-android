@@ -1,12 +1,12 @@
-74000,'74000','Séminaire Sud / Montcalm (Cégep)',45.297081,-73.266912
-74001,'74001','Séminaire Sud / Gouin',45.301098,-73.266457
-74002,'74002','Séminaire Nord / McMillan (Hôpital)',45.333594,-73.268116
-74003,'74003','Séminaire Nord / Lachance',45.334913,-73.267688
-74004,'74004','Séminaire Nord / Lachance',45.335223,-73.268248
-74005,'74005','Séminaire Nord / Hôpital',45.333343,-73.267455
-74006,'74006','Séminaire Sud / Gouin',45.301633,-73.266951
-74007,'74007','Séminaire Sud / Montcalm (Cégep)',45.297053,-73.266582
-74008,'74008','Simard / Centre Sportif Robert Lebel',45.437194,-73.269138
+74000,'74000','Séminaire S / Montcalm (Cégep)',45.297081,-73.266912
+74001,'74001','Séminaire S / Gouin',45.301098,-73.266457
+74002,'74002','Séminaire N / McMillan (Hôpital)',45.333594,-73.268116
+74003,'74003','Séminaire N / Lachance',45.334913,-73.267688
+74004,'74004','Séminaire N / Lachance',45.335223,-73.268248
+74005,'74005','Séminaire N / Hôpital',45.333343,-73.267455
+74006,'74006','Séminaire S / Gouin',45.301633,-73.266951
+74007,'74007','Séminaire S / Montcalm (Cégep)',45.297053,-73.266582
+74008,'74008','Simard / Ctr Sportif Robert Lebel',45.437194,-73.269138
 74009,'74009','Brassard / 2e Rue De Tracy',45.449078,-73.303424
 74011,'74011','Chambly / Bellerive',45.459436,-73.308587
 74012,'74012','Périgny / Bellerive',45.459268,-73.305694
@@ -33,8 +33,8 @@
 74036,'74036','Fréchette / Lapalme',45.440898,-73.28927
 74037,'74037','Gentilly / Franquet',45.43477,-73.280084
 74038,'74038','Franquet / Gentilly',45.434483,-73.280188
-74039,'74039','Henriette / Devant Le #2282',45.449378,-73.319247
-74040,'74040','Henriette / Devant Le #2271',45.449198,-73.319375
+74039,'74039','Henriette / #2282',45.449378,-73.319247
+74040,'74040','Henriette / #2271',45.449198,-73.319375
 74041,'74041','Franquet / Scheffer',45.435402,-73.285955
 74042,'74042','Bourgogne / Napoléon',45.442655,-73.261053
 74044,'74044','Scheffer / O''Brien',45.434885,-73.286084
@@ -82,7 +82,7 @@
 74101,'74101','Bourgogne / Charles-Boyer',45.447211,-73.270982
 74102,'74102','Bourgogne / Sénécal',45.450908,-73.296144
 74103,'74103','Bourgogne / Sénécal',45.451247,-73.29681
-74104,'74104','Stationnement Incitatif Chambly',45.4328,-73.303604
+74104,'74104','Stat Incitatif Chambly',45.4328,-73.303604
 74105,'74105','Fonrouge / Kennedy',45.431545,-73.292075
 74108,'74108','Périgny / Bourgogne',45.440572,-73.258516
 74109,'74109','Industriel / Périgny',45.441725,-73.271546
@@ -116,22 +116,22 @@
 74145,'74145','Bourgogne / Béique',45.455063,-73.300399
 74146,'74146','Bourgogne / Béique',45.455061,-73.300762
 74147,'74147','Périgny / Laforce',45.455598,-73.302117
-74148,'74148','Terminus Longueuil Porte 23',45.523611,-73.522281
-74153,'74153','Taschereau / Devant L''École Gérard Filion',45.510279,-73.493012
+74148,'74148','Term Longueuil P:23',45.523611,-73.522281
+74153,'74153','Taschereau / École Gérard Filion',45.510279,-73.493012
 74154,'74154','Taschereau / St-Thomas',45.51038,-73.494372
-74157,'74157','Séminaire Nord / St-Michel',45.315133,-73.264514
-74158,'74158','Séminaire Nord / St-Michel',45.315358,-73.264871
+74157,'74157','Séminaire N / St-Michel',45.315133,-73.264514
+74158,'74158','Séminaire N / St-Michel',45.315358,-73.264871
 74167,'74167','Désourdy / Léon-Paré',45.454992,-73.352306
 74168,'74168','Désourdy / 3152',45.453425,-73.353631
 74169,'74169','Désourdy / 3152',45.453216,-73.353613
 74170,'74170','Henriette / Léonard-Tresny',45.446916,-73.335022
 74171,'74171','Henriette / Léonard-Tresny',45.44663,-73.335255
-74180,'74180','Gentilly Est / Cégep Édouard-Montpetit',45.536925,-73.495237
+74180,'74180','Gentilly E / Cégep Édouard-Montpetit',45.536925,-73.495237
 74181,'74181','Chambly / Gentilly',45.535728,-73.496381
 74182,'74182','Chambly / St-Charles',45.54081,-73.508238
 74183,'74183','Chambly / St-Charles',45.540842,-73.507763
 74185,'74185','Bourgogne / Martel',45.448903,-73.289985
-74186,'74186','Fayette / St-Charles Ouest',45.52068,-73.518801
+74186,'74186','Fayette / St-Charles O',45.52068,-73.518801
 74187,'74187','Pont / Jeannotte',45.432906,-73.157168
 74189,'74189','Chambly / Racicot',45.433448,-73.171559
 74190,'74190','Pont / Jeannotte',45.433053,-73.15695
@@ -150,7 +150,7 @@
 74204,'74204','Chambly / Auclair',45.437598,-73.188498
 74205,'74205','Pont / Roseaux',45.433441,-73.145792
 74206,'74206','Roseaux / Ivanier',45.429456,-73.1435
-74212,'74212','Terminus Centre-Ville Porte 16',45.498041,-73.566033
+74212,'74212','Term Ctr-Ville P:16',45.498041,-73.566033
 74219,'74219','Route 112 / Ruisseau-Barré',45.439033,-73.183051
 74220,'74220','Route 112 / Ruisseau-Barré',45.439467,-73.182901
 74221,'74221','Claude-De Ramezay / Rosiers',45.437363,-73.165339
@@ -166,9 +166,9 @@
 74231,'74231','Ivanier / Arès',45.42874,-73.145798
 74232,'74232','Ivanier / Arès',45.429003,-73.145655
 74233,'74233','Ivanier / Roseaux',45.429504,-73.143402
-74235,'74235','Roseaux / Devant Le #2155',45.431517,-73.145067
-74236,'74236','Roseaux / Devant Le #2140',45.431394,-73.145224
-74237,'74237','Patriotes / Montée Daigneault',45.41184,-73.240709
+74235,'74235','Roseaux / #2155',45.431517,-73.145067
+74236,'74236','Roseaux / #2140',45.431394,-73.145224
+74237,'74237','Patriotes / Mtée Daigneault',45.41184,-73.240709
 74239,'74239','Patriotes / Samuel-Bessette',45.432966,-73.245543
 74241,'74241','Roseaux / Pont',45.433399,-73.14554
 74243,'74243','Pont / Desjardins',45.43356,-73.150231
@@ -192,47 +192,47 @@
 74274,'74274','Patriotes / Massé',45.47137,-73.268039
 74275,'74275','Patriotes / Robert',45.486853,-73.263424
 74276,'74276','Patriotes / Joseph-Théberge',45.488607,-73.26181
-74278,'74278','Patriotes / Rivière-Des-Hurons Est',45.459321,-73.256411
+74278,'74278','Patriotes / Riv-Des-Hurons E',45.459321,-73.256411
 74279,'74279','Patriotes / Richelieu',45.459147,-73.256684
-74280,'74280','Patriotes / Devant Le #56',45.450457,-73.24962
+74280,'74280','Patriotes / #56',45.450457,-73.24962
 74281,'74281','Patriotes / #56',45.450113,-73.24989
-74282,'74282','Promenades St-Bruno / Porte #2',45.505906,-73.37473
+74282,'74282','Promenades St-Bruno / P:2',45.505906,-73.37473
 74285,'74285','Promenades / Tim Horton''S',45.501268,-73.375332
-74286,'74286','Promenades / Devant Le Tim Horton''S',45.500681,-73.37511
+74286,'74286','Promenades / Tim Horton''S',45.500681,-73.37511
 74287,'74287','Promenades / Laure-L-Hosson',45.493851,-73.378927
 74288,'74288','Promenades / Laure-L-Hosson',45.493108,-73.378844
 74289,'74289','Patriotes / Monseigneur-Phaneuf',45.474324,-73.268505
 74290,'74290','Patriotes / Monseigneur-Phaneuf',45.474521,-73.268679
 74291,'74291','Brassard / Michel-Laguë',45.432261,-73.306221
 74294,'74294','Route 112 / Faubourg Carignan',45.46037,-73.314109
-74295,'74295','Route 112 / Devant Le Faubourg Carignan',45.460002,-73.314212
+74295,'74295','Route 112 / Faubourg Carignan',45.460002,-73.314212
 74296,'74296','Chemin Des Patriotes / Albert-Perron',45.47687,-73.26829
 74297,'74297','Chemin Des Patriotes / Albert-Perron',45.476826,-73.268021
 74302,'74302','Chambly / Promenades',45.487142,-73.382043
 74304,'74304','Promenades / Chambly',45.487433,-73.382379
-74312,'74312','Cousineau / Montée St-Hubert',45.501621,-73.422955
-74313,'74313','Cousineau / Montée St-Hubert',45.501431,-73.42403
-74314,'74314','Cousineau / Devant L''École André-Laurendeau',45.484636,-73.394621
+74312,'74312','Cousineau / Mtée St-Hubert',45.501621,-73.422955
+74313,'74313','Cousineau / Mtée St-Hubert',45.501431,-73.42403
+74314,'74314','Cousineau / École André-Laurendeau',45.484636,-73.394621
 74315,'74315','Cousineau / École André-Laurendeau',45.484307,-73.395016
 74321,'74321','Cousineau / Gaétan-Boucher',45.494924,-73.409264
 74322,'74322','Cousineau / Gaétan-Boucher',45.494972,-73.408499
-74325,'74325','Fréchette / Devant Le Stationnement Incitatif',45.43374,-73.297472
-74441,'74441','Séminaire Nord / Georges-Phaneuf',45.320277,-73.263749
-74442,'74442','Séminaire Nord / Georges-Phaneuf',45.320683,-73.26425
+74325,'74325','Fréchette / Stat Incitatif',45.43374,-73.297472
+74441,'74441','Séminaire N / Georges-Phaneuf',45.320277,-73.263749
+74442,'74442','Séminaire N / Georges-Phaneuf',45.320683,-73.26425
 74450,'74450','Bourgogne / St-René',45.449709,-73.293013
 74451,'74451','Bourgogne / St-René',45.449668,-73.293301
 74453,'74453','Bourgogne / Charles-Boyer',45.447158,-73.271333
 74458,'74458','Patriotes / 14e Av',45.439597,-73.245835
 74459,'74459','Patriotes / Marieville',45.436549,-73.245494
-74462,'74462','Patriotes / Devant Le CLSC Du Richelieu',45.43743,-73.24529
+74462,'74462','Patriotes / CLSC Du Richelieu',45.43743,-73.24529
 74463,'74463','Patriotes / 14e Av',45.439452,-73.245602
 74472,'74472','Franquet / Gentilly',45.434687,-73.279813
-74474,'74474','Patriotes / Montée Daigneault',45.412107,-73.241524
+74474,'74474','Patriotes / Mtée Daigneault',45.412107,-73.241524
 74475,'74475','Patriotes / Samuel-Bessette',45.432698,-73.245914
 74477,'74477','Bellerive / Chambly',45.459575,-73.306838
 74478,'74478','Bellerive / Chambly',45.459522,-73.306606
 74479,'74479','Bellerive / Bachand',45.466671,-73.303833
-74480,'74480','Bellevue / Devant L''Hôtel De Ville',45.46569,-73.330673
+74480,'74480','Bellevue / Hôtel De Ville',45.46569,-73.330673
 74481,'74481','Bellevue / Hôtel De Ville',45.465725,-73.330859
 74482,'74482','Bellerive / Chambly',45.458759,-73.306802
 74483,'74483','Bellerive / Chambly',45.458573,-73.307327
@@ -241,28 +241,28 @@
 74486,'74486','Bachand / Bellerive',45.46686,-73.303975
 74487,'74487','Bellerive / Bachand',45.466878,-73.303903
 74488,'74488','Bachand / Bellerive',45.466779,-73.303956
-74489,'74489','Bellerive / Marie-Anne Est',45.45239,-73.310462
-74490,'74490','Bellerive / Marie-Anne Est',45.452718,-73.310632
-74491,'74491','Bachand / Devant Le Parc Des Vétérans',45.478966,-73.319193
+74489,'74489','Bellerive / Marie-Anne E',45.45239,-73.310462
+74490,'74490','Bellerive / Marie-Anne E',45.452718,-73.310632
+74491,'74491','Bachand / Parc Des Vétérans',45.478966,-73.319193
 74492,'74492','Bachand / Parc Des Vétérans',45.478749,-73.319424
-74493,'74493','Bachand / Devant Le #2114',45.47299,-73.311536
-74494,'74494','Bachand / Devant Le #2129',45.472786,-73.311958
+74493,'74493','Bachand / #2114',45.47299,-73.311536
+74494,'74494','Bachand / #2129',45.472786,-73.311958
 74495,'74495','Roses / Pétunias',45.470971,-73.281372
 74496,'74496','Tulipes / 1994',45.475105,-73.284804
 74497,'74497','Henriette / Albani',45.44761,-73.330071
 74498,'74498','Henriette / Albani',45.447412,-73.330286
 74499,'74499','Bellerive / Gilbert-Martel',45.441448,-73.338485
 74500,'74500','Gilbert-Martel / Bellerive',45.441558,-73.338461
-74501,'74501','Bellerive / Montée Du Moulin',45.433071,-73.356564
-74502,'74502','Bellerive / Montée Du Moulin',45.433326,-73.356457
+74501,'74501','Bellerive / Mtée Du Moulin',45.433071,-73.356564
+74502,'74502','Bellerive / Mtée Du Moulin',45.433326,-73.356457
 74503,'74503','Bellerive / René-Poupart',45.428998,-73.362894
 74504,'74504','Bellerive / René-Poupart',45.42931,-73.362926
 74505,'74505','Grande Allée / Grandfontaine',45.428137,-73.365378
 74506,'74506','Bernard-Boucher / Grande Allée',45.428162,-73.36571
 74507,'74507','Grande Allée / Coupal',45.431852,-73.370466
 74508,'74508','Grande Allée / Coupal',45.431775,-73.370788
-74509,'74509','Grande Allée / Devant Le #1215',45.435753,-73.375916
-74510,'74510','Grande Allée / Devant Le #1198',45.435547,-73.37596
+74509,'74509','Grande Allée / #1215',45.435753,-73.375916
+74510,'74510','Grande Allée / #1198',45.435547,-73.37596
 74511,'74511','Henriette / Charlotte-Dubuc',45.44844,-73.325104
 74512,'74512','Henriette / Charlotte-Dubuc',45.448238,-73.32521
 74513,'74513','Henriette / Jeanne-Déchard',45.446045,-73.34002
@@ -291,8 +291,8 @@
 74540,'74540','Grande Allée / Domaine',45.433868,-73.373641
 74541,'74541','Chambly / Route 112',45.440366,-73.196738
 74542,'74542','Route 112 / Chambly',45.44042,-73.197144
-74550,'74550','Terminus Panama Temporaire Quai 14',45.465687,-73.470234
-74559,'74559','Devant Le 3196 Bouthillier',45.458139,-73.3526
+74550,'74550','Term Panama Temp Q:14',45.465687,-73.470234
+74559,'74559','3196 Bouthillier',45.458139,-73.3526
 74560,'74560','3196 Bouthillier',45.45793,-73.352579
 74561,'74561','Bouthillier / Jean-Baptiste-Charron',45.462577,-73.349415
 74562,'74562','Bouthillier / Jean-Baptiste-Charron',45.462309,-73.34936
@@ -303,7 +303,7 @@
 74567,'74567','Lareau / Laurent-Monty',45.451911,-73.356148
 74568,'74568','Laurent-Monty / Lareau',45.451806,-73.35599
 74569,'74569','Lareau / Jean-Baptiste-Charron',45.463074,-73.346311
-74570,'74570','Désourdy / Galets Nord',45.463282,-73.346329
+74570,'74570','Désourdy / Galets N',45.463282,-73.346329
 74571,'74571','Carrière / Chambly',45.464849,-73.34538
 74572,'74572','Carrière / Chambly',45.464909,-73.345678
 74576,'74576','Roses / Deux-Rivières',45.476855,-73.275521
@@ -317,12 +317,12 @@
 74588,'74588','Daigneault / Martel',45.461646,-73.291999
 74589,'74589','Martel / Georges-Pépin',45.457778,-73.291877
 74590,'74590','Martel / Demers',45.461701,-73.291726
-74591,'74591','Daigneault / Devant Le Manoir Soleil',45.461128,-73.296216
+74591,'74591','Daigneault / Manoir Soleil',45.461128,-73.296216
 74593,'74593','Martel / Georges-Pépin',45.457561,-73.291554
 74594,'74594','Martel / St-Pierre',45.453011,-73.291383
 74595,'74595','Martel / Gérard-Mongeau',45.451368,-73.29092
-74611,'74611','Désourdy / Galets Sud',45.460668,-73.348067
-74612,'74612','Désourdy / Galets Sud',45.460877,-73.348081
+74611,'74611','Désourdy / Galets S',45.460668,-73.348067
+74612,'74612','Désourdy / Galets S',45.460877,-73.348081
 74613,'74613','Anne-Le Seigneur / Jean-Casgrain',45.437154,-73.316072
 74614,'74614','Désourdy / Granit',45.459024,-73.349482
 74615,'74615','Désourdy / Granit',45.45883,-73.349511
@@ -334,7 +334,7 @@
 74627,'74627','Anne-Le Seigneur / Charron',45.431037,-73.314238
 74635,'74635','Anne-Le Seigneur / Kent',45.433075,-73.314852
 74636,'74636','Grande Allée / Acier',45.453185,-73.411014
-74637,'74637','Grande Allée / Place De La Couronne',45.456037,-73.414813
+74637,'74637','Grande Allée / Pl De La Couronne',45.456037,-73.414813
 74640,'74640','Anne-Le Seigneur / Marianne-Baby',45.427778,-73.311425
 74641,'74641','Anne-Le Seigneur / Marianne-Baby',45.429751,-73.313479
 74642,'74642','Anne-Le Seigneur / Michel-Laguë',45.430852,-73.313948
@@ -357,9 +357,9 @@
 74666,'74666','Joseph-Bresse / Daigneault',45.45946,-73.303378
 74667,'74667','Joseph-Bresse / Gordon-Mclean',45.461861,-73.299135
 74668,'74668','Martel / Gérard-Mongeau',45.451463,-73.291119
-74670,'74670','Charles-Le Moyne / Devant Le #1438',45.440532,-73.281242
-74671,'74671','Charles-Le Moyne / Devant Le #1437',45.441579,-73.281029
-74672,'74672','Charles-Le Moyne / Devant Le #1417',45.44301,-73.280623
+74670,'74670','Charles-Le Moyne / #1438',45.440532,-73.281242
+74671,'74671','Charles-Le Moyne / #1437',45.441579,-73.281029
+74672,'74672','Charles-Le Moyne / #1417',45.44301,-73.280623
 74673,'74673','Charles-Le Moyne / Charette',45.44382,-73.283203
 74674,'74674','Charles-Le Moyne / Courcelle',45.44421,-73.284986
 74675,'74675','Charles-Le Moyne / Carillon',45.44415,-73.286997
@@ -367,8 +367,8 @@
 74677,'74677','Charles-Le Moyne / Courcelle',45.444153,-73.285185
 74678,'74678','Charles-Le Moyne / Charette',45.443767,-73.283425
 74679,'74679','Charles-Le Moyne / #1417',45.442977,-73.280804
-74680,'74680','Charles-Le Moyne / Devant Le #1422',45.441596,-73.281181
-74681,'74681','Charles-Le Moyne / Devant Le #1438',45.440561,-73.281627
+74680,'74680','Charles-Le Moyne / #1422',45.441596,-73.281181
+74681,'74681','Charles-Le Moyne / #1438',45.440561,-73.281627
 74687,'74687','Lebel / Daly',45.441675,-73.306373
 74688,'74688','Brébeuf / Lebel',45.441193,-73.310659
 74689,'74689','Salaberry / Denys',45.442827,-73.310501
@@ -381,6 +381,6 @@
 74696,'74696','Lebel / Laurent-Perreault',45.439394,-73.292615
 74697,'74697','Désourdy / Henri-Bisaillon',45.456632,-73.351154
 74698,'74698','Désourdy / Henri-Bisaillon',45.456875,-73.351091
-74700,'74700','Terminus Mansfield Quai 1',45.498267,-73.5639
+74700,'74700','Term Mansfield Q:1',45.498267,-73.5639
 74701,'74701','Robert-Bourassa / Ottawa',45.496329,-73.557851
 74863,'74863','Demers / Ormes',45.46567,-73.289393
