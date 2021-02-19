@@ -6,7 +6,7 @@
 1401,0,'PM',14
 1500,0,'AM',15
 1501,0,'PM',15
-2000,0,'Richelieu-Chambly',20
+2000,0,'Richelieu<>Chambly',20
 30000,0,'Chambly',300
 30001,0,'Longueuil',300
 30100,0,'Chambly',301
@@ -25,19 +25,19 @@
 60001,0,'Montréal',600
 2000101,0,'Bouthillier',20001
 2000100,0,'Lareau',20001
-2000200,0,'Bellerive',20002
-2000201,0,'Hôtel De Ville De Carignan',20002
-2000300,0,'Chambly',20003
+2000201,0,'Carignan<>Hôtel De Ville',20002
+2000200,0,'Chemin Bellerive',20002
+2000300,0,'Chemin De Chambly',20003
 2000301,0,'Île Goyer',20003
-2000401,0,'Chemin Bellerive / P+R',20004
+2000401,0,'Chemin Bellerive / P+R Chambly',20004
 2000400,0,'Île Aux Lièvres',20004
 2000500,0,'Chemin De La Grande-Allée',20005
 2000501,0,'Route 112',20005
-2000601,0,'Chambly',20006
+2000601,0,'P+R Chambly',20006
 2000600,0,'St-Mathias-Sur-Richelieu',20006
 2000700,0,'Charles-Le Moyne',20007
-2000701,0,'Term Chambly',20007
-2000800,0,'Chambly',20008
-2000801,0,'Longueuil',20008
+2000701,0,'P+R Chambly',20007
+2000800,0,'P+R Chambly',20008
+2000801,0,'St-Hubert',20008
+2000900,0,'P+R Chambly',20009
 2000901,0,'Sect Du Golf',20009
-2000900,0,'Term Chambly',20009
