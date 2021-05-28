@@ -4,8 +4,8 @@
 1300,0,'Chambly Local',13
 1400,0,'AM',14
 1401,0,'PM',14
-1500,0,'AM',15
-1501,0,'PM',15
+1501,0,'Marieville',15
+1500,0,'Marieville<>Chambly',15
 2000,0,'Richelieu<>Chambly',20
 30000,0,'Chambly',300
 30001,0,'Longueuil',300
