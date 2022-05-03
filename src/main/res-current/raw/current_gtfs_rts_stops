@@ -1,13 +1,13 @@
 73024,'73024','Promenades St-Bruno / P:3',45.503044,-73.376021
 73026,'73026','Promenades St-Bruno / P:2',45.506043,-73.374795
-74000,'74000','Séminaire S / Montcalm (Cégep)',45.297081,-73.266912
+74000,'74000','Séminaire N / Montcalm (Cégep)',45.297081,-73.266912
 74001,'74001','Séminaire S / Gouin',45.301098,-73.266457
 74002,'74002','Séminaire N / McMillan (Hôpital)',45.333594,-73.268116
 74003,'74003','Séminaire N / Lachance',45.334913,-73.267688
 74004,'74004','Séminaire N / Lachance',45.335223,-73.268248
 74005,'74005','Séminaire N / Hôpital',45.333343,-73.267455
 74006,'74006','Séminaire S / Gouin',45.301633,-73.266951
-74007,'74007','Séminaire S / Montcalm (Cégep)',45.297053,-73.266582
+74007,'74007','Séminaire N / Montcalm (Cégep)',45.297304,-73.266349
 74008,'74008','Simard / Ctr Sportif Robert Lebel',45.437194,-73.269138
 74009,'74009','Brassard / 2e Rue De Tracy',45.449078,-73.303424
 74011,'74011','Chambly / Bellerive',45.459436,-73.308587
@@ -115,7 +115,7 @@
 74138,'74138','Fréchette / Bourgogne',45.447746,-73.28679
 74139,'74139','Bourgogne / Fréchette',45.447885,-73.286721
 74140,'74140','Bourgogne / Fréchette',45.447821,-73.287014
-74141,'74141','Bourgogne / Martel',45.44915,-73.290909
+74141,'74141','Bourgogne / Martel',45.448713,-73.290875
 74142,'74142','Bourgogne / Martel',45.448975,-73.290972
 74143,'74143','Bourgogne / St-Pierre',45.452128,-73.297439
 74144,'74144','Bourgogne / St-Pierre',45.452243,-73.297762
@@ -134,7 +134,7 @@
 74171,'74171','Henriette / Léonard-Tresny',45.44663,-73.335255
 74180,'74180','Gentilly E / Cégep Édouard-Montpetit',45.536925,-73.495237
 74181,'74181','Chambly / Gentilly',45.535728,-73.496381
-74182,'74182','Chambly / St-Charles',45.54081,-73.508238
+74182,'74182','Chambly / St-Charles',45.540959,-73.508574
 74183,'74183','Chambly / St-Charles',45.540842,-73.507763
 74185,'74185','Bourgogne / Martel',45.448903,-73.289985
 74186,'74186','Fayette / St-Charles O',45.52068,-73.518801
@@ -294,8 +294,8 @@
 74538,'74538','Henriette / Bellerive',45.450133,-73.313001
 74539,'74539','Grande Allée / Domaine',45.433911,-73.373333
 74540,'74540','Grande Allée / Domaine',45.433868,-73.373641
-74541,'74541','Chambly / Route 112',45.440366,-73.196738
-74542,'74542','Route 112 / Chambly',45.44042,-73.197144
+74541,'74541','Chambly / Peupliers',45.439988,-73.196749
+74542,'74542','Peupliers / Chambly',45.440105,-73.197053
 74550,'74550','Term Panama Temp Q:14',45.465687,-73.470234
 74559,'74559','3196 Bouthillier',45.458139,-73.3526
 74560,'74560','3196 Bouthillier',45.45793,-73.352579
@@ -334,7 +334,7 @@
 74616,'74616','Désourdy / Léon-Paré',45.455203,-73.352322
 74620,'74620','Franquet / Frédéric-Courtemanche',45.434188,-73.276821
 74622,'74622','Fréchette / Anne-Le Seigneur',45.427845,-73.309992
-74623,'74623','Fréchette / Anne-Le Seigneur',45.427302,-73.31063
+74623,'74623','Fréchette / Anne-Le Seigneur',45.426923,-73.310661
 74625,'74625','Franquet / Arthur-De Senneville',45.434037,-73.277376
 74627,'74627','Anne-Le Seigneur / Charron',45.431037,-73.314238
 74635,'74635','Anne-Le Seigneur / Kent',45.433075,-73.314852
