@@ -1,6 +1,6 @@
 This application adds exo Chambly-Richelieu-Carignan buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from @exo_CRC on Twitter.
+This app contains the buses schedule and the latest news from @exo_Sud on Twitter.
 
 exo Chambly-Richelieu-Carignan serves Brossard, Carignan, Chambly, Longueuil, Marieville, Montréal, Richelieu, Saint-Bruno, Saint-Jean-Sur-Richelieu and Saint-Mathias-Sur-Richelieu.
 
