@@ -1,6 +1,6 @@
 Cette application ajoute les informations des autobus exo Chambly-Richelieu-Carignan à MonTransit.
 
-L'app contient les horaires et les dernières nouvelles de @exo_Sud sur Twitter.
+L'app contient les horaires et les dernières nouvelles de @allo_exo et @exo_CRC sur Twitter.
 
 exo Chambly-Richelieu-Carignan (Blus) dessert Brossard, Carignan, Chambly, Longueuil, Marieville, Montréal, Richelieu, Saint-Bruno, Saint-Jean-Sur-Richelieu et Saint-Mathias-Sur-Richelieu.
 
