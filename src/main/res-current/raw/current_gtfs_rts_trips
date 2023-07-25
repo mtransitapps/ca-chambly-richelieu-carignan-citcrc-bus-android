@@ -7,68 +7,22 @@
 1501,0,'Marieville',15
 1500,0,'Marieville<>Chambly',15
 2000,0,'Richelieu<>Chambly',20
-10400,0,'Chambly<>Daigneault',104
-10500,0,'Chambly<>Richelieu<>Marieville',105
-10600,0,'AM',106
-10601,0,'PM',106
-10701,0,'Chambly<>Anne-Le Seigneur',107
-10700,0,'Chambly<>Anne-Le Seigneur',107
-10800,0,'St-Mathias-Sur-Richelieu',108
-10801,0,'Term Chambly',108
-10901,0,'St-Hubert',109
-10900,0,'Term Chambly',109
 30000,0,'Chambly',300
 30001,0,'Longueuil',300
 30100,0,'Chambly',301
 30101,0,'Longueuil',301
 30200,0,'Chambly',302
 30201,0,'Longueuil',302
-38001,0,'Bouthillier',380
-38000,0,'Faubourg Carignan',380
-38100,0,'Faubourg Carignan',381
-38101,0,'Hôtel De Ville',381
-38201,0,'Faubourg Carignan',382
-38200,0,'Île Goyer',382
-38301,0,'Term Chambly',383
-38300,0,'Île Aux Lièvres',383
-38400,0,'Faubourg Carignan',384
-38401,0,'Grande-Allée',384
-38500,0,'Ind',385
-38501,0,'Term Chambly',385
-38600,0,'CLSC Du Richelieu',386
-38601,0,'Ind',386
 40000,0,'Chambly',400
 40001,0,'Montréal',400
 40100,0,'Chambly',401
 40101,0,'Montréal',401
 45001,0,'Chambly',450
 45000,0,'St-Jean-Sur-Richelieu',450
-48101,0,'Term Brossard',481
-48100,0,'Term Chambly',481
-48200,0,'Chambly<>Franquet',482
-48201,0,'Term Brossard',482
-48300,0,'Faubourg Carignan',483
-48301,0,'Term Brossard',483
-48401,0,'Term Brossard',484
-48400,0,'Île Aux Lièvres',484
-48500,0,'Chambly<>Bourgogne',485
-48501,0,'Term Brossard',485
-48600,0,'Marieville',486
-48601,0,'Term Brossard',486
-48700,0,'Chambly<>Ind',487
-48701,0,'Term Brossard',487
-48800,0,'Chambly<>Daigneault',488
-48801,0,'Term Brossard',488
 50000,0,'Marieville',500
 50001,0,'Montréal',500
 60000,0,'Carignan',600
 60001,0,'Montréal',600
-68000,0,'Chambly',680
-68001,0,'Term Longueuil',680
-68100,0,'Chambly',681
-68101,0,'Longueuil',681
-68500,0,'Chambly<>Carignan',685
-68501,0,'St-Jean-Sur-Richelieu',685
 2000000101,0,'Bouthillier',20000001
 2000000100,0,'Lareau',20000001
 2000000200,0,'Chemin Bellerive',20000002
