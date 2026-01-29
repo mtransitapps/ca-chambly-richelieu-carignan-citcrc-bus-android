@@ -5,6 +5,7 @@ import static org.mtransit.parser.Constants.EMPTY;
 import static org.mtransit.parser.Constants.SPACE_;
 
 import org.jetbrains.annotations.NotNull;
+import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CleanUtils;
 import org.mtransit.commons.RegexUtils;
 import org.mtransit.parser.DefaultAgencyTools;
@@ -39,6 +40,16 @@ public class ChamblyRichelieuCarignanCITCRCBusAgencyTools extends DefaultAgencyT
 	@Override
 	public Integer getAgencyRouteType() {
 		return MAgency.ROUTE_TYPE_BUS;
+	}
+
+	@Override
+	public @Nullable String getTripIdCleanupRegex() {
+		return "CRC\\-\\w{1}\\d{2}\\-(GTFS_CRC)\\-"; // remove trip ID shared by all trip IDs (include season letter and YY year)
+	}
+
+	@Override
+	public @Nullable String getServiceIdCleanupRegex() {
+		return "^CRC\\-\\w{1}\\d{2}\\-(GTFS_CRC)\\-"; // remove beginning of service ID shared by all service IDs (include season letter and YY year)
 	}
 
 	@NotNull
