@@ -6,22 +6,22 @@
 10700,0,'Chambly (Brassard<>Anne-Le Seigneur)',107
 10800,0,'St-Mathias-Sur-Richelieu',108
 10801,0,'Term Chambly',108
-10901,0,'St-Hubert',109
+10901,0,'Saint-Hubert',109
 10900,0,'Term Chambly',109
 38001,0,'Bouthillier',380
 38000,0,'Faubourg Carignan',380
 38100,0,'Faubourg Carignan',381
-38101,0,'Hôtel De Ville',381
+38101,0,'Hôtel Ville',381
 38201,0,'Faubourg Carignan',382
 38200,0,'Île Goyer',382
 38301,0,'Term Chambly',383
 38300,0,'Île Aux Lièvres',383
 38400,0,'Faubourg Carignan',384
 38401,0,'Grande-Allée',384
-38500,0,'Ind',385
+38500,0,'Industriel',385
 38501,0,'Term Chambly',385
-38600,0,'CLSC Du Richelieu',386
-38601,0,'Ind',386
+38600,0,'CLSC Richelieu',386
+38601,0,'Industriel',386
 48101,0,'Term Brossard',481
 48100,0,'Term Chambly',481
 48200,0,'Chambly<>Franquet',482
@@ -34,7 +34,7 @@
 48501,0,'Term Brossard',485
 48600,0,'Marieville',486
 48601,0,'Term Brossard',486
-48700,0,'Chambly<>Ind',487
+48700,0,'Chambly<>Industriel',487
 48701,0,'Term Brossard',487
 48800,0,'Chambly<>Daigneault',488
 48801,0,'Term Brossard',488
@@ -43,4 +43,4 @@
 68100,0,'Chambly',681
 68101,0,'Longueuil',681
 68500,0,'Chambly<>Carignan',685
-68501,0,'St-Jean-Sur-Richelieu',685
+68501,0,'Saint-Jean-Sur-Richelieu',685
